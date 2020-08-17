@@ -17,3 +17,7 @@ What is the uniqueness of the product ?
 > * The modularity of the design leads to easier transport and on-site assembly.
 > * Availability of more power options ranging from 5kW to 50kW helping in reaching the power requirement of more number of bodies in demand.
 > * The lower operational RPM increases the thermal stability of the system which only increases the overall life span of the system but also reduces the cost spent over the cooling apparatuses.
+
+Wealth creation and Employement generation.
+> If we talk about the wealth creation aspect of our proposal, the usage of our idea in the renewable energy production sector will lead to a huge contribution to the net power generation by the country with more efficiency and less investment into the cost of component manufacturing. The whole idea would help in contributing to annual power generation by country more significance. Both of these points would directly help a lot in the wealth of the country which would also help the company gaining more shares in the market.
+> In terms of generating employment, the industrial establishment of the company like creating factories, corporate infrastructures, etc. would create multiple job opportunities for the people by which the company directly contributes to increasing the overall employment.
