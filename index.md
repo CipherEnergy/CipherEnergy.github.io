@@ -5,7 +5,7 @@ What is the problem your Startup is solving?
 > * The design and selection of the component on the material level that leads to higher manufacturing cost.
 > * High operational RPM of the turbine which leads to higher thermal instability and faster decay of the life span of the machine. It also leads to the requirement of equipment and instrumentations of higher capability resulting in a higher cost in apparatus usage.
 > * The high maintenance requirement of the system that leads to the demand for more on-site manpower which not only increases the requirement of capital in hiring a workforce that increases the maintenance cost but it also increases the higher risk of fatality over accidents on site.
-> * Availability of lower power output option that leads to failure in terms of reachability of power requirement of certain low power requiring systems and areas.
+> * Availability of lower power output option that leads to failure in meeting power requirements of certain low power requiring systems and areas.
 
 How does your startup propose to solve these problem ?
 > In the direction of solving these problems, our startup proposes a new alternator design by the usage of cheaper materials that leads to a considerable reduction in manufacturing cost.
